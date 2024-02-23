@@ -5,7 +5,7 @@
 var Hello = React.createClass({
     render: function () {
         return (
-                <div></div>
+                <div><h1>afadasdjkfjasdf</h1></div>
                 );
     }
 });
